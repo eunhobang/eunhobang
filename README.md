@@ -1,4 +1,35 @@
 ### Hi I'm EunHo Bang 👋
+
+### Information
+
+### Education
+
+- Sungshin Univ. of IT (2015.03 ~ 2020.02 )
+    - Major: Information System
+    - Minor: Computer Software
+- 2020.07 ~ 2020.12 PlayData
+    - Autonomous Driving Course
+
+### Experiences
+
+- 2021.03 ~ Current KETI **Researcher**
+- 2020.03 ~ 2020.06 Sungshin Univ **Teaching** 
+- 2017.12 ~ 2018.02 Wellba **Intern**
+
+
+### Papers
+
+- **International**
+
+     - 2021.11 Data Preprocessing and Visualization Methodology For Building energy Analysis **The Institute of Electronics and Information Engineers**
+    - 2021.06 Designing Data Collection, Statistics, Analysis Container System using Manufacturing Data **Korea Information Technology**
+   
+<!-- ### Projects
+
+- **00000** -->
+
+
+
 <a href="https://eunhoit.tistory.com">
  <img src="http://img.shields.io/badge/-tistory-yellow?style=flat&logo=bloglovin&link=https://eunhoit.tistory.com/"/>
  </a>
