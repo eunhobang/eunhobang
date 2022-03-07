@@ -1,4 +1,6 @@
-### Hi I'm EunHo Bang 👋
+### EunHo Bang(나는야 고양이)
+📫 : eunho430@gmail.com
+📝 : https://eunhoit.tistory.com/
 
 ### Information
 
