@@ -3,7 +3,7 @@
 
 📝 : https://eunhoit.tistory.com/
 
-notion: https://www.notion.so/EUN-HO-BANG-e5367bf206754208987cd8c409f6f366
+🔲notion: https://www.notion.so/EUN-HO-BANG-e5367bf206754208987cd8c409f6f366
 
 ### Information
 
