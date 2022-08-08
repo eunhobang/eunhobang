@@ -17,7 +17,8 @@
 
 ### Experiences
 
-- 2021.03 ~ Current KETI **Researcher**
+- 2021.05 ~ Current Individual **Freelancer&Developer**
+- 2021.03 ~ 2022.04 KETI **Researcher**
 - 2020.03 ~ 2020.06 Sungshin Univ **Teaching** 
 - 2017.12 ~ 2018.02 Wellba **Intern**
 
