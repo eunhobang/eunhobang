@@ -30,9 +30,7 @@
      - 2021.11 Data Preprocessing and Visualization Methodology For Building energy Analysis **The Institute of Electronics and Information Engineers**
     - 2021.06 Designing Data Collection, Statistics, Analysis Container System using Manufacturing Data **Korea Information Technology**
    
-<!-- ### Projects
 
-- **00000** -->
 
 
 
