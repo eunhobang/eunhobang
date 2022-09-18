@@ -31,9 +31,6 @@
     - 2021.06 Designing Data Collection, Statistics, Analysis Container System using Manufacturing Data **Korea Information Technology**
    
 
-<!-- ### Projects
-
-- **00000** -->
 
 
 <a href="https://eunhoit.tistory.com">
